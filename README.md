@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi 👋 My name is Alexander Aranda
+=================================
 
-<!--
-**arand013/arand013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
+-----------------
 
-Here are some ideas to get you started:
+I have been learning to code for 2 years. Once the pandemic began I pivoted my focus to learning principles of programming. Starting with HTML/CSS. After, success in a web bootcamp. I am proudly building out my ideas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Los Angeles, CA
+* 🖥️  See my portfolio at [MyPortfolio](http://arand013.github.io/Portfolio)
+* ✉️  You can contact me at [alexanderaranda@ymail.com](mailto:alexanderaranda@ymail.com)
+* 🧠  I'm learning Solidity & Web Design
+* 🤝  I'm open to collaborating on Projects & Ideas
+* ⚡  Love to hear stories!
+
+### Skills
