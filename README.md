@@ -4,7 +4,7 @@ Hi 👋 My name is Alexander Aranda
 Software Engineer
 -----------------
 
-I have been learning to code for 2 years. Once the pandemic began I pivoted my focus to learning principles of programming. Starting with HTML/CSS. After, success in a web bootcamp. I am proudly building out my ideas!
+I have been learning to code for 2 years. Once the pandemic began I pivoted my focus to learning principles of programming. Starting with HTML/CSS. After, success in an amazing UCLA web bootcamp. I am proudly building out my ideas!
 
 * 🌍  I'm based in Los Angeles, CA
 * 🖥️  See my portfolio at [MyPortfolio](http://arand013.github.io/Portfolio)
