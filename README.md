@@ -11,7 +11,7 @@ I have been learning to code since 2020. Once the pandemic began I pivoted my fo
 * ✉️  You can contact me at [alexanderaranda@ymail.com](mailto:alexanderaranda@ymail.com)
 * 🧠  I'm learning Solidity & Web Design
 * 🤝  Open to collaborating on Projects & Ideas
-* ⚡  Always enjoy to hear stories!
+* ⚡  Inspired by stories!
 
 ### Skills
 
