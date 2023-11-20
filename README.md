@@ -10,7 +10,6 @@ I have been learning to code since 2020. Once the pandemic began I pivoted my fo
 * 🖥️  See my portfolio at [MyPortfolio](http://arand013.github.io/Portfolio)
 * ✉️  You can contact me at [alexanderaranda@ymail.com](mailto:alexanderaranda@ymail.com)
 * 🧠  I'm learning Frontend Design, AI, and Web3 ecosystems.  
-* 
 * ⚡  Inspired by stories!
 
 ### Skills
