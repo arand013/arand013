@@ -3,7 +3,7 @@ Hi 👋 My name is Alexander Aranda
 
 Software Engineer
 -----------------
-Debugging since 2020. Currently working with AI. ML. with Finance and Economics.
+Debugging since 2020.
 
 Currently engineering with AI. ML. tied with Finance and Economics.
 
