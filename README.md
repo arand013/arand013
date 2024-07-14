@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexander Aranda
 =================================
 
-Software Engineer
+Software Engineer | AI ML Researcher
 -----------------
 Debugging since 2020.
 
