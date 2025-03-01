@@ -1,7 +1,7 @@
 Hi 👋 My name is Alex
 =================================
 
-Software Engineer | AI ML Researcher
+Software Engineer | AI ML Researcher | Mathematician
 -----------------
 Debugging since 2020.
 
