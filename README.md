@@ -1,4 +1,4 @@
-Hi 👋 My name is Alexander Aranda
+Hi 👋 My name is Alex
 =================================
 
 Software Engineer | AI ML Researcher
