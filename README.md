@@ -7,7 +7,6 @@ Debugging since 2020.
 
 Currently engineering with AI. ML. tied with Finance and Economics.
 
-* 🌍  From Los Angeles & based in Boca Raton, FL
 * 🖥️  See my portfolio at [MyPortfolio](http://arand013.github.io/Portfolio)
 * ✉️  You can contact me at [my email here](mailto:arandaresume23@gmail.com)
 
